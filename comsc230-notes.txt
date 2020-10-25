@@ -34,3 +34,10 @@ git remote show origin
 // Make a change in one of the files (ie: add a blank line to MainActivity.java) and
 // Use the VSCode github function (icon on the left) to push the change to github.
 // Since this is the initial commit, it will push all of the code.
+
+
+------------ Branches ------------
+
+ branch1-ratings 
+
+This branch adds the retsurant rating feature to the app
