@@ -36,7 +36,7 @@ git remote rm origin
 
 // now you can re-point the local repo to your new github repo:
 
-git remote add origin <paste in the url of your github repo for this project>
+git remote add origin  (paste in the url of your github repo for this project)
 
 // Check it again
 git remote show origin
